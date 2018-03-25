@@ -1,2 +1,2 @@
 # Ammodytes
-Pucblic information and datasets on the investigations of species diversity and population genetics among Ammodutes
+Pucblic information and datasets on the investigations of species diversity and population genetics among Ammodytes
