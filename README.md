@@ -3,4 +3,10 @@ Pucblic information and datasets on the investigation of species diversity and p
 
 Table S1 - the information on taxonomy and location of the speciemens linked to the *COI* sequences that were used to build the reference library for sand lances identification.
 
-Table S2 - intra- and interspecific genetic *COI* gene distances among sand lances, calculated based on TrN+G substitution model .
+Table S2 - intra- and interspecific genetic *COI* gene distances among sand lances, calculated based on TrN+G substitution model.
+
+
+![Sapmling locations of sand lances](https://github.com/Sturcoal/Ammodytes/blob/master/text50474-6-9.png)
+
+
+
