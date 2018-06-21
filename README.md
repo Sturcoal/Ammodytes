@@ -11,7 +11,7 @@ Table [S2](https://github.com/Sturcoal/Ammodytes/blob/master/Table%20S2.csv) - i
 
 Figure 1. The map of northern hemisphere with sampling localities of sand lances analysed. To find out more details see Table S1.
 
-![Sapmling locations of sand lances](https://github.com/Sturcoal/Ammodytes/blob/master/text50474-6-9.png)
+![Sapmling locations of sand lances](https://github.com/Sturcoal/Ammodytes/blob/master/text50474-6-9_eng.png)
 
 
 
