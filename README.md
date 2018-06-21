@@ -5,6 +5,9 @@ Table S1 - the information on taxonomy and location of the speciemens linked to 
 
 Table S2 - intra- and interspecific genetic *COI* gene distances among sand lances, calculated based on TrN+G substitution model.
 
+----
+
+Figure 1. Tha map of northern hemisphere with sand lances sampling localities. To find out more details see Table S1.
 
 ![Sapmling locations of sand lances](https://github.com/Sturcoal/Ammodytes/blob/master/text50474-6-9.png)
 
