@@ -10,6 +10,7 @@ Table [S2](https://github.com/Sturcoal/Ammodytes/blob/master/Table%20S2.csv) - i
 ----
 
 The reference database - [149 aligned partial COI sequences](https://github.com/Sturcoal/Ammodytes/blob/master/Sandlances_ref_database_149seq_without_outgroup.fas) of sand lances.  
+
 ----
 
 Figure 1. The map of northern hemisphere with sampling localities of sand lances analyzed. To find out more details see Table S1.
